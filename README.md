@@ -1,2 +1,2 @@
 # appsync-sample
-test
+test2
